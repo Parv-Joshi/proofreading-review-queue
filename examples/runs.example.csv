@@ -1,0 +1,2 @@
+run_id,unit_number,source_document_id,source_revision_id,status,finding_count,created_at,validated_at,notes
+SAMPLE-RUN-U001,1,REPLACE_AT_IMPORT,REPLACE_AT_IMPORT,VALIDATED,1,2030-01-01T00:00:00.000Z,2030-01-01T00:00:00.000Z,Fictional example only

@@ -1,0 +1,13 @@
+{
+  "name": "proofreading-review-queue",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Privacy-safe Google Apps Script review queue for anchored proofreading decisions and backup-first application.",
+  "scripts": {
+    "test": "node scripts/validate-repo.mjs && node scripts/privacy-scan.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
